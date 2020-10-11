@@ -1,0 +1,14 @@
+Package: com.livewire-Livewire
+Name: Livewire
+Version: 1.5.2
+Architecture: iphoneos-arm
+Description: Official Repo and only repo verified for the Livewire TV streaming app.
+Maintainer: Livewire <livewireplus.com>
+Author: Livewire <support@livewireplus.com>
+Section: Apps
+Depends: 
+Filename: ./debs/com.livewire-Livewire_1.5.2_iphoneos-arm.deb
+Size: 418
+MD5sum: 1e68d63aeb303742e6c5d187308b1721
+SHA1: 3fcce9112060b8e361c11f713ffdfd9dc5d00e8b
+SHA256: 631cd81ecd124283e1a402428a7c6682f01eceb115ffda057589f9a06f329123
