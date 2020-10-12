@@ -1,7 +1,7 @@
 Package: com.livewire-Livewire
 Name: Livewire
 Version: 1.5.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Official Repo and only repo verified for the Livewire TV streaming app.
 Maintainer: Livewire <livewireplus.com>
 Author: Livewire <support@livewireplus.com>
