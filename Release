@@ -1,7 +1,7 @@
 Origin: Livewireplus.com
-Label: Livewireplus
+Label: Live-wire
 Suite: stable
-Version: 1.5.2
+Version: 1.5.2 (1.5.2)
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
